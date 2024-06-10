@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinToDo</string>
+    <string name="todo_list_app">ToDo List App</string>
+</resources>
